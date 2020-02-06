@@ -1,0 +1,4 @@
+//Dependances
+npm install bootstrap axios --save
+npm install @popperjs/core react-redux redux redux-middleware redux-thunk --save
+npm install --save react-router-dom
